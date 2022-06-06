@@ -1,0 +1,14 @@
+1000, true, 30
+1000000, true, 500
+16634, true, 499
+16667, true, 500
+16700, true, 500
+-1, true, 0
+0, true, 0
+34, true, 1
+49900, false, 499
+50000, false, 500
+51000, false, 500
+-1, false, 0
+0, false, 0
+100, false, 1
